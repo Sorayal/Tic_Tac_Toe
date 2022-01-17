@@ -1,2 +1,2 @@
 # Tic_Tac_Toe
-Tic Tac Toe Game
+First version of the Tic-Tac-Toe Game.
